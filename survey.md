@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Turquoise
+Favorite food: Hamburger
+Favorite musician/band: Red Hot Chili Peppers
+Favorite movie: Saving Private Ryan
+Requested grade in the course: 100
